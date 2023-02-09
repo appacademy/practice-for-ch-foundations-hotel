@@ -1,6 +1,6 @@
 # Hotel
 
-https://user-images.githubusercontent.com/76491823/217724478-61d2c674-08d2-4092-9405-ee99fdcae38f.mp4  
+https://user-images.githubusercontent.com/76491823/217724478-61d2c674-08d2-4092-9405-ee99fdcae38f.mp4
 
 This project consists of two parts. Video walkthroughs follow in the next
 sections. After completing each part, watch the corresponding walkthrough before
